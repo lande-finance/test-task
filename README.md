@@ -11,7 +11,7 @@ Any remaining value resulting from the rounding process should be tracked and st
 
 The service calculates and stores distributions based on the given amount and investment rates. 
 
-Please use PHP ^8.2 or later and Laravel ^10.0.
+Please use PHP 8.2 or later and Laravel ^10.0.
 You can use any libraries, tools or techonologies you think are necessary.
 Feel free to improve or extend the service based on their own judgment.
 
