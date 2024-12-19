@@ -118,7 +118,7 @@ Response:
    - Couple of tests.
    - Instructions to run and test the project.
 2. Testing (Optional but Recommended):
-   - Include unit and/or feature tests for the endpoints, business logic, and rounding adjustments.
+   - Include unit and/or feature tests for the endpoints.
 
 ### Evaluation Criteria:
 1. Correctness:
