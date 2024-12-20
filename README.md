@@ -40,7 +40,7 @@ Processing:
 - Round each investment’s amount down to the previous integer.
 - Calculate the total of the rounded amounts and compare it with the original amount:
 - The remainder is the adjustment.
-- Ensure that the sum of the rounded amounts equals the original amount.
+- Ensure that the sum of the rounded amounts and adjustment equals the original amount.
 - Save the distribution and not distributed remainder.
 
 Response:
